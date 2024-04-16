@@ -1,2 +1,2 @@
-# Parallel-PINN
-Parallel RheologyNet
+# MultisubPINN
+
